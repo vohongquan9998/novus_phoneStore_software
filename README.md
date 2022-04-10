@@ -2,6 +2,7 @@
 
 Phone store manager software use C-Sharp
 
+Document : [Open Document](https://github.com/vohongquan9998/novus_phoneStore_software/blob/main/report/BaoCaoCNPM.pdf)
 
 ![bannerNovus](https://user-images.githubusercontent.com/71002261/146675129-cef60c32-c6d8-4b13-a410-287c5b6eaaea.png)
 
